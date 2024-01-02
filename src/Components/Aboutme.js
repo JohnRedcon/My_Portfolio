@@ -6,12 +6,15 @@ class Aboutme extends Component {
       <div style={{ textAlign: "center", marginLeft: 'auto', color: '#fff', marginRight: 'auto', marginTop: '100px', width: '60%', background: 'grey', padding: '20px'}}>
         <h1 style={{fontSize: '50px', textTransform: 'uppercase', fontFamily: 'Anton, sans-serif'}}>Tshegofatso Nkutshweu's Bio</h1>
         <p style={{textAlign: 'justify', fontFamily: 'Oxygen, sans-serif'}}>
-        Currently studying Software Development at WeThinkCode_. I am looking forward to embarking the Tech world and experience what it can offer me and how I can ultimately use
-         to it to change how my community views and uses technology to improve their everyday lives. 
-I want to implement ways in which can make an impact in my community through identifying what services can be made easy by implementing easier ways to do them via tech. 
-I am passionate about helping the disadvantaged by helping them become better versions of themselves, equipping them with skills and knowledge from what I've learned and learn from them also. 
-My ultimate goal is teaching people about the importance of tech, and platforms they can use to study programming, I wish to have a platform of my own where I'll share my experiences and 
-how I got into programming and help people from my community and neighbouring communities learn to program.
+        I am a passionate young professional driven by a love for problem-solving and the opportunity to proactively prevent issues. One of the aspects I enjoy most about my work is building systems that everyday people can interact with and use. This enthusiasm extends beyond my professional endeavors into my personal projects, where I've undertaken various initiatives in my spare time.
+
+In my personal projects, I have crafted a QR Code linking to my LinkedIn profile using Python, integrating libraries like qrcode and pyzar. I've also designed and developed a personal website using HTML, CSS, JavaScript, and ReactJS. Additionally, I've created two backend games – Tic-Tac-Toe and a number guessing game – both implemented in Python.
+
+To continually sharpen my skills and contribute to my community, I actively participate in courses, meet-ups, and presentations. I've attended AWS Skills Building Seminars, demonstrating my commitment to staying updated on the latest technologies and industry trends.
+
+My unique contributions to the team stem from a diverse range of courses I've undertaken, including Udemy's Oracle WebLogic for Administrators and LinkedIn Learning's ReactJS Essential Training, DevOps Foundations, DevOps with AWS, and Functional Programming with Java. I've delved into various areas such as JSON, Java 11, Rest APIs, and relational databases through dedicated training. Additionally, I hold certificates from Hackerrank in SQL and Java, showcasing my commitment to continuous learning and skill development.
+
+As an individual, I bring a proactive approach to problem-solving, a keen eye for detail, and a demonstrated ability to contribute meaningfully to both personal and team projects. My passion for building accessible systems, coupled with a dedication to ongoing learning, positions me as a valuable asset to any collaborative and innovative team.
 
         </p>
         <p>
@@ -21,10 +24,7 @@ how I got into programming and help people from my community and neighbouring co
           ever since then I've wanted to be a part of a world of endless possibilities. 
           I believe with tech anything is possible, with tech we can build cutting edge softwares that will help improve our daily lives.
           I relate with your #Sorted spex because I never leave anything incomplete, I always ensure that a task is completed, if I don't have the solution to fix it then I go out and outsource help.
-          I want to be apart of a company that is at a world class level, that actually makes tangible change to the tech industry and that cares about their customers and clients.
-
-          I believe that Sovtech will equipt me with the neccesary tools to enhance my skills, I believe that I am an excellent culture fit and will fit in easily. 
-          Where I lack as a developer I believe that I will acquire it through the graduate program. 
+          I want to be apart of a company that is at a world class level, that actually makes tangible change to the tech industry and that cares about their customers and clients. 
         </p>
       </div>
     );
