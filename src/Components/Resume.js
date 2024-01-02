@@ -28,9 +28,9 @@ My experience working on many projects enabled me to rapidly adapt to changes an
             </p>
             <hr style={{ borderTop: "2px solid #833fb2", width: "50%" }} />
             <h5>Physical Address</h5>
-            <p>6 Yale, The Campus, Van Dalen North Road, Ruimsig, Johannesburg </p>
+            <p>4064 Petticoat Crescent Kaalfontein Ext 10, Midrand 1632 </p>
             <h5>Phone Numbers</h5>
-            <p>(+27) 762516155/ (+27) 659194892</p>
+            <p>(+27) 762516155/ (+27) 698708506</p>
             <h5>Email Address</h5>
             <p>amandankutshweu@gmail.com</p>
           
